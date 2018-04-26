@@ -1,0 +1,9 @@
+{
+	"user": "Southclaws",
+	"repo": "gamemode",
+	"entry": "gamemodes/gm.pwn",
+	"output": "gamemodes/gm.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}

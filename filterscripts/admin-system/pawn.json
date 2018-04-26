@@ -1,0 +1,7 @@
+{
+  "user": "Southclaws",
+  "repo": "admin-system",
+  "entry": "admin-system.pwn",
+  "output": "../admin-system.amx",
+  "dependencies": ["sampctl/samp-stdlib"]
+}
