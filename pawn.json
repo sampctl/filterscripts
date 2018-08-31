@@ -5,5 +5,18 @@
 	"output": "gamemodes/gm.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib"
-	]
+	],
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"echo": "Loading configuration...",
+		"filterscripts": [
+			"admin-system"
+		],
+		"rcon_password": "password",
+		"port": 7777,
+		"hostname": "test",
+		"maxplayers": 32,
+		"language": ""
+	}
 }

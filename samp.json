@@ -1,7 +1,0 @@
-{
-  "rcon_password": ";:WuJs725:-:",
-  "port": 7777,
-  "hostname": "test",
-  "maxplayers": 32,
-  "filterscripts": ["admin-system"]
-}
